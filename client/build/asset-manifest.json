@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acee05d0.css",
+    "main.js": "/static/js/main.02caf38f.js",
+    "static/js/498.4626cc55.chunk.js": "/static/js/498.4626cc55.chunk.js",
+    "static/js/703.44d02dec.chunk.js": "/static/js/703.44d02dec.chunk.js",
+    "static/js/142.e22ed4b2.chunk.js": "/static/js/142.e22ed4b2.chunk.js",
+    "static/media/home-img.png": "/static/media/home-img.53a9eee592ede470236d.png",
+    "static/media/gerb.png": "/static/media/gerb.cfd6b3bcfb4228f644a6.png",
+    "static/media/5.jpg": "/static/media/5.ba16f7f5b2174501d5e1.jpg",
+    "static/media/4jpeg.jpeg": "/static/media/4jpeg.1189ba91a113fccce658.jpeg",
+    "static/media/logo.jpg": "/static/media/logo.ed8d5f265580df966b19.jpg",
+    "static/media/2.jpeg": "/static/media/2.d235e3b46af8a3e28c4d.jpeg",
+    "static/media/3.jpeg": "/static/media/3.8ab2fe3cf76067c9089a.jpeg",
+    "static/media/7.jpg": "/static/media/7.98196e2b36261f205be7.jpg",
+    "static/media/1.jpeg": "/static/media/1.e623f537fca43521a491.jpeg",
+    "static/media/6.jpg": "/static/media/6.ccc6c857fedd52123ad4.jpg",
+    "static/media/passport.jpg": "/static/media/passport.5cbfc14d47d5bc933ebf.jpg",
+    "static/media/student.png": "/static/media/student.ee0a5681ab5993d4f6bc.png",
+    "static/media/united-kingdom (2).png": "/static/media/united-kingdom (2).7be3d5a2c15bcfba1b7c.png",
+    "static/media/comand_icon.png": "/static/media/comand_icon.640689b8ac2e7c3fe50d.png",
+    "index.html": "/index.html",
+    "main.acee05d0.css.map": "/static/css/main.acee05d0.css.map",
+    "main.02caf38f.js.map": "/static/js/main.02caf38f.js.map",
+    "498.4626cc55.chunk.js.map": "/static/js/498.4626cc55.chunk.js.map",
+    "703.44d02dec.chunk.js.map": "/static/js/703.44d02dec.chunk.js.map",
+    "142.e22ed4b2.chunk.js.map": "/static/js/142.e22ed4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acee05d0.css",
+    "static/js/main.02caf38f.js"
+  ]
+}
